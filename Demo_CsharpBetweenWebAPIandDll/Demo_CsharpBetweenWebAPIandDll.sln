@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_CsharpBetweenWebAPIandDll", "Demo_CsharpBetweenWebAPIandDll\Demo_CsharpBetweenWebAPIandDll.csproj", "{2547FABC-78C7-4FA8-81F7-D41B96615A1E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Interop.Fm220api", "Interop.Fm220api\Interop.Fm220api.vbproj", "{08FBE6D6-5E5A-4F22-BE9E-CB8AF9DCB409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2547FABC-78C7-4FA8-81F7-D41B96615A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2547FABC-78C7-4FA8-81F7-D41B96615A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2547FABC-78C7-4FA8-81F7-D41B96615A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2547FABC-78C7-4FA8-81F7-D41B96615A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FBE6D6-5E5A-4F22-BE9E-CB8AF9DCB409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FBE6D6-5E5A-4F22-BE9E-CB8AF9DCB409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FBE6D6-5E5A-4F22-BE9E-CB8AF9DCB409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FBE6D6-5E5A-4F22-BE9E-CB8AF9DCB409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCEB38E7-B902-4997-9B4C-7B2049478850}
+	EndGlobalSection
+EndGlobal
